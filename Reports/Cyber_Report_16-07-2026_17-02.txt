@@ -1,0 +1,38 @@
+
+==================================================
+TECH NEWS AUTOMATION PRO
+DAILY CYBERSECURITY REPORT
+==================================================
+
+Generated:
+16 July 2026 17:02
+
+Articles Analysed:
+1
+
+High Risk Threats:
+0
+
+==================================================
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+Microsoft Entra ID gets passkeys default authentication starting September
+
+Source:
+BleepingComputer
+
+Security Impact:
+Security improvement or defensive technology update.
+
+Threat Level:
+LOW
+
+Recommendation:
+Monitor developments and review relevant security controls.
+
+

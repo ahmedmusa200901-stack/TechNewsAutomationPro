@@ -1,0 +1,122 @@
+
+==================================================
+TECH NEWS AUTOMATION PRO
+DAILY CYBERSECURITY REPORT
+==================================================
+
+Generated:
+16 July 2026 16:22
+
+Articles Analysed:
+5
+
+High Risk Threats:
+2
+
+==================================================
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+New Webinar: Closing the Approval Gap in AI-Era Ad Tech
+
+Source:
+Internet
+
+Security Impact:
+Requires further cybersecurity investigation.
+
+Threat Level:
+MEDIUM
+
+Recommendation:
+Monitor developments and review relevant security controls.
+
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+Microsoft Entra ID gets passkeys default authentication starting September
+
+Source:
+BleepingComputer
+
+Security Impact:
+Security improvement or defensive technology update.
+
+Threat Level:
+LOW
+
+Recommendation:
+Monitor developments and review relevant security controls.
+
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+How Pentera Turns AI Security Workflows into Validation Engines
+
+Source:
+Internet
+
+Security Impact:
+Requires further cybersecurity investigation.
+
+Threat Level:
+MEDIUM
+
+Recommendation:
+Monitor developments and review relevant security controls.
+
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support
+
+Source:
+Internet
+
+Security Impact:
+Possible cyber attack, data exposure, malware activity, or security compromise.
+
+Threat Level:
+HIGH
+
+Recommendation:
+Monitor developments and review relevant security controls.
+
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths
+
+Source:
+Internet
+
+Security Impact:
+Possible cyber attack, data exposure, malware activity, or security compromise.
+
+Threat Level:
+HIGH
+
+Recommendation:
+Monitor developments and review relevant security controls.
+
+

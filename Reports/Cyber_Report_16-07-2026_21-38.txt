@@ -1,0 +1,172 @@
+
+==================================================
+TECH NEWS AUTOMATION PRO
+DAILY CYBERSECURITY REPORT
+==================================================
+
+Generated:
+16 July 2026 21:38
+
+Articles Analysed:
+3
+
+High Risk Threats:
+2
+
+==================================================
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+Zoom warns of critical account takeover vulnerability
+
+Source:
+BleepingComputer
+
+Technology Category:
+Cybersecurity
+
+Article URL:
+https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/
+
+Image:
+https://www.bleepstatic.com/content/hl-images/2026/07/15/zoom.jpg
+
+Summary:
+This article discusses a potential cybersecurity risk that may affect systems, users or organisations. Further investigation and monitoring is recommended.
+
+Attack Category:
+Security Threat / Vulnerability
+
+Attack Method:
+Potential exploitation or social engineering
+
+Security Area:
+Identity Security / Vulnerability Management
+
+Vulnerability Detection:
+No CVE identified
+
+MITRE ATT&CK Mapping:
+T1566 - Phishing
+T1190 - Exploit Public-Facing Application
+
+Security Impact:
+The issue may present a security weakness that requires investigation and monitoring.
+
+Threat Level:
+MEDIUM
+
+Recommended Actions:
+- Review affected systems
+- Apply security patches
+- Monitor suspicious activity
+
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+Google Gemini CLI abused as a hacking agent, malware botnet operator
+
+Source:
+BleepingComputer
+
+Technology Category:
+Cybersecurity
+
+Article URL:
+https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/
+
+Image:
+https://www.bleepstatic.com/content/hl-images/2025/10/21/Robot.jpg
+
+Summary:
+This article covers a significant cybersecurity event which may involve threats such as malware, data exposure or unauthorised access. Organisations should review security controls and monitor for related activity.
+
+Attack Category:
+Cyber Attack / Data Compromise
+
+Attack Method:
+Malware or unauthorised access
+
+Security Area:
+Endpoint Security / Data Protection
+
+Vulnerability Detection:
+No CVE identified
+
+MITRE ATT&CK Mapping:
+T1486 - Data Encrypted for Impact
+T1078 - Valid Accounts
+
+Security Impact:
+This article indicates possible malicious activity including malware infections, unauthorised access, or sensitive data exposure.
+
+Threat Level:
+HIGH
+
+Recommended Actions:
+- Review security logs
+- Enable multi-factor authentication
+- Monitor indicators of compromise
+- Isolate affected systems if required
+
+
+
+========================================
+AI CYBERSECURITY ANALYSIS
+========================================
+
+Title:
+​ ​AsyncAPI npm packages infected with credential-stealing malware
+
+Source:
+BleepingComputer
+
+Technology Category:
+Cybersecurity
+
+Article URL:
+https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/
+
+Image:
+https://www.bleepstatic.com/content/hl-images/2026/05/15/npm.jpg
+
+Summary:
+This article covers a significant cybersecurity event which may involve threats such as malware, data exposure or unauthorised access. Organisations should review security controls and monitor for related activity.
+
+Attack Category:
+Cyber Attack / Data Compromise
+
+Attack Method:
+Malware or unauthorised access
+
+Security Area:
+Endpoint Security / Data Protection
+
+Vulnerability Detection:
+No CVE identified
+
+MITRE ATT&CK Mapping:
+T1486 - Data Encrypted for Impact
+T1078 - Valid Accounts
+
+Security Impact:
+This article indicates possible malicious activity including malware infections, unauthorised access, or sensitive data exposure.
+
+Threat Level:
+HIGH
+
+Recommended Actions:
+- Review security logs
+- Enable multi-factor authentication
+- Monitor indicators of compromise
+- Isolate affected systems if required
+
+
