@@ -158,5 +158,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-17 13:42"
+    },
+    {
+        "title": "Operational Technology Security: A Delicate Balance",
+        "content": "The realm of operational technology (OT) security is fraught with challenges, particularly when it comes to legacy systems. These outdated systems, often found in critical infrastructure, pose significant safety concerns and vulnerabilities. Disclosing these vulnerabilities is a complex issue, as it requires a careful balance between informing the public and avoiding potential risks to the affected systems. This dilemma is a major concern in the cybersecurity community, as it can have far-reaching consequences for industries that rely on OT, such as energy, transportation, and healthcare. As the use of OT continues to grow, the need for effective security measures and responsible vulnerability disclosure practices becomes increasingly important. In conclusion, the security of operational technology is a multifaceted issue that requires careful consideration and collaboration among industry experts, policymakers, and other stakeholders to ensure the safety and reliability of critical infrastructure.",
+        "summary": "The security of operational technology is a complex issue, particularly when it comes to legacy systems, and requires a delicate balance between vulnerability disclosure and risk management.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-17 17:45"
+    },
+    {
+        "title": "Revolutionizing Security: The Rise of AI-Driven Protocols",
+        "content": "The rapid evolution of artificial intelligence has rendered traditional security measures obsolete. In the past, security teams relied on a static understanding of their environment, which allowed them to implement fixed policies and procedures. However, with the advent of AI agents, this approach is no longer effective. The dynamic nature of AI requires a more adaptable and flexible security framework, one that prioritizes real-time identity verification and workflow customization. As a result, security experts are now advocating for a new paradigm, one that emphasizes building on a live identity foundation and granting security teams the autonomy to create tailored workflows. This shift in approach acknowledges that AI agents have introduced unprecedented complexity and speed to the security landscape, necessitating a more agile and responsive defense strategy.",
+        "summary": "The increasing presence of AI agents in enterprise environments has disrupted traditional security protocols, prompting the need for a more dynamic and adaptive approach to security.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-17 17:45"
     }
 ]
