@@ -178,5 +178,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-17 17:45"
+    },
+    {
+        "title": "Coca-Cola's Fairlife Dairy Production Halted by Ransomware Attack",
+        "content": "A recent ransomware attack on Fairlife, a dairy subsidiary of The Coca-Cola Company, has brought production to a standstill across the United States. As a result, the manufacture of Fairlife products has been temporarily suspended, impacting the company's operations. The attack has significant implications for the dairy industry, highlighting the growing threat of cyberattacks on critical infrastructure. The Coca-Cola Company has disclosed the incident, revealing the extent of the disruption caused by the ransomware attack. The company is likely to face challenges in restoring production and mitigating the effects of the attack.",
+        "summary": "A ransomware attack on Fairlife, a Coca-Cola subsidiary, has halted dairy production in the US, disrupting operations and highlighting the threat of cyberattacks on critical infrastructure.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-17 21:10"
+    },
+    {
+        "title": "Vulnerability in Claude Chrome Extension Puts User Data at Risk",
+        "content": "A recently discovered security flaw in the Claude browser extension for Chrome has raised concerns about the potential for malicious activity. The issue allows rogue extensions to mimic user interactions, potentially triggering AI-driven actions that could compromise sensitive information. This vulnerability could be exploited to access connected services, including popular Google applications such as Gmail and Google Docs. As a result, users may be unknowingly exposed to data breaches and other security threats. The discovery of this flaw highlights the importance of robust security measures in browser extensions, particularly those that utilize artificial intelligence and have access to sensitive user data.",
+        "summary": "A security flaw in the Claude Chrome extension could allow malicious extensions to trigger AI actions, potentially compromising user data and connected services.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-17 21:10"
     }
 ]
