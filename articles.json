@@ -128,5 +128,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-17 10:01"
+    },
+    {
+        "title": "UK Court Hands Down Five-Year Prison Sentences to Scattered Spider Hackers",
+        "content": "In a significant crackdown on cybercrime, two prominent members of the notorious Scattered Spider collective have been sentenced to five years and six months in prison for their role in hacking into Transport for London's (TfL) systems in 2024. This high-profile conviction serves as a deterrent to other cybercrime groups and highlights the growing efforts of law enforcement to combat digital threats. The TfL breach, which occurred in 2024, has led to a thorough investigation and ultimately resulted in the prosecution of the two leading members of the Scattered Spider group. The case underscores the importance of robust cybersecurity measures and international cooperation in fighting cybercrime.",
+        "summary": "Two leading members of the Scattered Spider cybercrime collective have been sentenced to five years and six months in prison for hacking Transport for London in 2024.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-17 13:41"
+    },
+    {
+        "title": "Russian Cybercrime Group Caught Using Malicious Apps to Spread Starland Malware",
+        "content": "A notorious Russian hacker group, identified as UAT-11795, has been found to be using compromised versions of popular video conferencing apps to spread a newly discovered backdoor malware known as Starland RAT. This financially motivated threat actor is leveraging trojanized software to gain unauthorized access to sensitive information, including credentials and cryptocurrency. The group's tactics involve disguising malicious code as legitimate software, allowing them to fly under the radar and infect unsuspecting users. The Starland RAT malware is a significant concern, as it can be used to steal valuable data and disrupt systems. The discovery of this malware highlights the importance of being cautious when downloading software and ensuring that all applications are from trusted sources.",
+        "summary": "A Russian hacker group is using trojanized video conferencing apps to spread Starland RAT malware, putting users' credentials and cryptocurrency at risk.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-17 13:42"
+    },
+    {
+        "title": "Spirals Ransomware Sets New Speed Record with Lightning-Fast Corporate Intrusion",
+        "content": "A recently discovered ransomware entity, known as Spirals, has demonstrated an alarming capacity for rapid corporate intrusion. In a span of less than 24 hours, this malicious actor successfully gained initial access, stole sensitive data, and encrypted the network of an IT service provider. This unprecedented speed underscores the evolving threat landscape and the need for enhanced cybersecurity measures. The incident, which occurred in June, highlights the potential vulnerabilities that exist within corporate networks and the importance of proactive defense strategies.",
+        "summary": "Spirals ransomware has achieved a corporate intrusion, data theft, and encryption in under 24 hours, setting a new record for speed and emphasizing the need for robust cybersecurity.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-17 13:42"
     }
 ]
