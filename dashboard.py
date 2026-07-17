@@ -1,6 +1,6 @@
 import streamlit as st
+import json
 import os
-import re
 
 
 st.set_page_config(
@@ -17,113 +17,24 @@ st.subheader("Automated Technology & Cybersecurity Intelligence Platform")
 st.divider()
 
 
-reports_folder = "Reports"
+DATABASE = "articles.json"
 
 
-if not os.path.exists(reports_folder):
-    st.error("Reports folder not found")
+# Load AI generated articles
+
+if not os.path.exists(DATABASE):
+
+    st.error("articles.json not found. Run main.py first.")
     st.stop()
 
 
-reports = [
-    f for f in os.listdir(reports_folder)
-    if f.endswith(".txt")
-]
+with open(
+    DATABASE,
+    "r",
+    encoding="utf-8"
+) as file:
 
-
-articles = []
-
-
-for file in reports:
-
-    path = os.path.join(
-        reports_folder,
-        file
-    )
-
-
-    with open(
-        path,
-        "r",
-        encoding="utf-8"
-    ) as report:
-
-        content = report.read()
-
-
-        titles = re.findall(
-            r"Title:\n(.*?)\n",
-            content
-        )
-
-        sources = re.findall(
-            r"Source:\n(.*?)\n",
-            content
-        )
-
-        categories = re.findall(
-            r"Technology Category:\n(.*?)\n",
-            content
-        )
-
-        urls = re.findall(
-            r"Article URL:\n(.*?)\n",
-            content
-        )
-
-        images = re.findall(
-            r"Image:\n(.*?)\n",
-            content
-        )
-
-        summaries = re.findall(
-            r"Summary:\n(.*?)\n",
-            content
-        )
-
-        threats = re.findall(
-            r"Threat Level:\n(.*?)\n",
-            content
-        )
-
-
-        for i in range(len(titles)):
-
-            articles.append(
-                {
-                    "title": titles[i],
-
-                    "source":
-                    sources[i]
-                    if i < len(sources)
-                    else "Unknown",
-
-                    "category":
-                    categories[i]
-                    if i < len(categories)
-                    else "Technology",
-
-                    "url":
-                    urls[i]
-                    if i < len(urls)
-                    else "#",
-
-                    "image":
-                    images[i]
-                    if i < len(images)
-                    else "",
-
-                    "summary":
-                    summaries[i]
-                    if i < len(summaries)
-                    else "No summary available",
-
-                    "threat":
-                    threats[i]
-                    if i < len(threats)
-                    else "Unknown"
-                }
-            )
+    articles = json.load(file)
 
 
 
@@ -140,9 +51,13 @@ search = st.sidebar.text_input(
 if search:
 
     articles = [
-        article for article in articles
+        article
+        for article in articles
         if search.lower()
-        in article["title"].lower()
+        in article.get(
+            "title",
+            ""
+        ).lower()
     ]
 
 
@@ -156,32 +71,39 @@ col1, col2, col3 = st.columns(3)
 
 
 with col1:
+
     st.metric(
-        "Articles Analysed",
+        "AI Articles Published",
         len(articles)
     )
 
 
 with col2:
 
-    high = len(
-        [
-            a for a in articles
-            if a["threat"] == "HIGH"
-        ]
-    )
-
     st.metric(
-        "High Risk Threats",
-        high
+        "Technology Articles",
+        len(
+            [
+                a for a in articles
+                if a.get("category")
+            ]
+        )
     )
 
 
 with col3:
 
     st.metric(
-        "Reports Created",
-        len(reports)
+        "Sources",
+        len(
+            set(
+                a.get(
+                    "source",
+                    ""
+                )
+                for a in articles
+            )
+        )
     )
 
 
@@ -190,44 +112,50 @@ st.divider()
 
 
 
-# News cards
+# Display articles
 
-st.subheader("📰 Latest Technology Intelligence")
+st.subheader(
+    "📰 Latest AI Rewritten Technology News"
+)
+
 
 
 for article in reversed(articles[-10:]):
 
 
-    if article["image"]:
+    image = article.get(
+        "image",
+        ""
+    )
+
+
+    if image:
 
         st.image(
-            article["image"],
+            image,
             width=500
         )
 
-
     st.markdown(
         f"""
-## {article['title']}
+    # {article.get("title", "No title")}
 
 
-**Source:** {article['source']}
+    **Category:** {article.get("category", "Technology")}
 
 
-**Technology Category:** {article['category']}
+    ## Article
 
 
-**Threat Level:** {article['threat']}
+    {article.get("content", "No content available")}
 
 
-### Summary
-
-{article['summary']}
+    ## Summary
 
 
-🔗 [Read Full Article]({article['url']})
+    {article.get("summary", "No summary available")}
 
 
----
-"""
+    ---
+    """
     )

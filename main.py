@@ -1,54 +1,72 @@
 import time
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+print(os.getenv("NEWS_API_KEY"))
+
+from news_fetcher import get_news
+from ai_article_writer import create_article
+from article_database import save_article
+
 
 print("=" * 60)
 print("        TECH NEWS AUTOMATION PRO")
-print("        CYBER THREAT INTELLIGENCE SYSTEM")
+print("        AI NEWS PUBLISHING SYSTEM")
 print("=" * 60)
 
 print()
 
-print("[+] Collecting cybersecurity news...")
+print("[+] Collecting technology news...")
 time.sleep(1)
-
-print("[+] Analysing security threats...")
-time.sleep(1)
-
-print("[+] Generating reports...")
-time.sleep(1)
-
-print("[+] Preparing email delivery...")
-time.sleep(1)
-
-print()
-
-from news_fetcher import get_news
-from ai_summarizer import summarize_news
-from report_generator import generate_report
-from report_saver import save_report
-from pdf_generator import create_pdf
-from email_sender import send_email
 
 
 news = get_news()
 
-analysis_results = []
+
+if not news:
+
+    print("[-] No news articles found")
+    exit()
+
+
+print(f"[+] Found {len(news)} articles")
+
+
+published = 0
+
 
 for article in news:
-    analysis = summarize_news(article)
-    analysis_results.append(analysis)
+
+    print()
+    print("[+] Rewriting article:")
+
+    print(
+        article["title"]
+    )
 
 
-final_report = generate_report(analysis_results)
+    rewritten_article = create_article(
+        article
+    )
 
-saved_file = save_report(final_report)
+    if rewritten_article:
+        save_article(
+            rewritten_article
+        )
+        published += 1
+    else:
+        print("❌ Article skipped")
 
-pdf_file = create_pdf(final_report)
 
-send_email(
-    "Daily Cybersecurity Report",
-    final_report,
-    pdf_file
+print()
+
+print(
+    f"[+] Successfully published {published} articles"
 )
 
-print(f"Text report saved as: {saved_file}")
-print(f"PDF report created as: {pdf_file}")
+
+print(
+    "[+] Website database updated"
+)
