@@ -268,5 +268,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-18 14:38"
+    },
+    {
+        "title": "Ernst & Young Reveals Data Breach Following Third-Party Support System Compromise",
+        "content": "In a significant cybersecurity incident, global consulting firm Ernst & Young has announced that it is informing its clients of a data breach resulting from the hacking of a third-party support ticket system utilized by its internal IT team. The breach is believed to have originated from a vulnerability in the support system, which was exploited by unauthorized parties. As a result, sensitive information may have been accessed or stolen. The company is taking proactive measures to mitigate the damage and notify affected parties.",
+        "summary": "Ernst & Young is notifying customers of a data breach caused by a hacked third-party support ticket system, potentially exposing sensitive client information.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 18:09"
+    },
+    {
+        "title": "Cybersecurity Firm Secures Significant Funding for Advanced Threat Detection Platform",
+        "content": "A notable cybersecurity startup has successfully raised a substantial amount of capital, $13 million, in its seed funding round, led by a prominent investment firm. This significant investment will enable the company to further develop its innovative security data platform, designed to help organizations detect and protect their assets at unprecedented speeds. The platform's capabilities include threat hunting and protection across various environments, all at machine speed. The funding round saw participation from several other esteemed investment firms, underscoring the industry's confidence in the startup's cutting-edge technology. With this investment, the company is poised to make a significant impact in the cybersecurity landscape.",
+        "summary": "A cybersecurity startup has raised $13 million in seed funding to enhance its security data platform for threat detection and asset protection.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 18:09"
     }
 ]
