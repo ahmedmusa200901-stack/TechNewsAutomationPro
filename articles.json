@@ -198,5 +198,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-17 21:10"
+    },
+    {
+        "title": "MacOS Users Under Attack: ClickLock Malware Demands Login Credentials",
+        "content": "A recently discovered strain of macOS malware, known as ClickLock, has been found to employ a unique tactic to extract sensitive user information. By forcibly terminating all visible system processes, this information-stealing malware tricks users into divulging their login passwords. The ultimate goal of ClickLock is to gain unauthorized access to users' cryptocurrency wallets and other valuable data. This sophisticated attack highlights the evolving nature of cyber threats and the importance of robust security measures for macOS users.",
+        "summary": "A new macOS malware called ClickLock terminates system processes to trick users into revealing their login passwords, aiming to steal cryptocurrency and other sensitive data.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 05:54"
     }
 ]
