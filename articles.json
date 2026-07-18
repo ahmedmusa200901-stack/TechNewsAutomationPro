@@ -288,5 +288,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-18 18:09"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Hits Cybersecurity Firm, Experts Baffled",
+        "content": "A cybersecurity company has fallen victim to a previously unknown ransomware strain, characterized by a Turkish ransom note and an unidentified file extension. The incident has sparked a call for assistance from experts in the field, as initial attempts to identify the malware using ID Ransomware have proven unsuccessful. The case is currently under review by renowned ransomware specialist Andrey Zhdanov, who may be able to shed light on the mysterious strain. As the investigation unfolds, the cybersecurity community remains on high alert, eager to learn more about this enigmatic threat and develop effective countermeasures.",
+        "summary": "A cybersecurity firm has been hit by an unknown ransomware strain with a Turkish ransom note and unknown file extension, prompting a call for expert assistance to identify and combat the threat.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817264/help-identifying-ransomware-turkish-ransom-note-unknown-extension/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 21:37"
+    },
+    {
+        "title": "Abbott Laboratories Investigates Dual Cybersecurity Incidents Amid Extortion Allegations",
+        "content": "A prominent healthcare company, Abbott Laboratories, has recently confirmed that it is currently probing two distinct cybersecurity incidents. The first incident involves unauthorized access to the internal systems of its Cancer Diagnostics division, specifically targeting legacy systems obtained from Exact Sciences. Additionally, the company is investigating a separate claim regarding a potential breach of its systems by attackers, who are allegedly demanding extortion. These incidents have prompted a thorough examination by Abbott Laboratories to determine the extent of the unauthorized access and to assess the potential impact on its operations and data security.",
+        "summary": "Abbott Laboratories is investigating two cybersecurity incidents, including unauthorized access to its Cancer Diagnostics systems and a potential breach with extortion claims.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 21:37"
+    },
+    {
+        "title": "Mysterious File Sparks Debate: Legitimate Antivirus or Ransomware?",
+        "content": "A suspicious file has been making the rounds on social media platforms, including Discord, leaving many to wonder if it's a genuine antivirus program or a malicious ransomware in disguise. The file in question has been analyzed on VirusTotal, a popular online platform for scanning files for malware, with mixed results. Some antivirus programs have flagged the file as potentially malicious, while others have given it a clean bill of health. The file's true intentions remain unclear, sparking a heated debate among cybersecurity experts and enthusiasts. To investigate further, some users have resorted to testing the file in a virtual machine, but the results have been inconclusive. As the debate rages on, it's essential for users to exercise caution when dealing with unknown files, especially those received from untrusted sources.",
+        "summary": "A mysterious file is causing confusion among cybersecurity experts, with some believing it to be a legitimate antivirus program and others thinking it's a ransomware in disguise.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817358/anti-virus-ransomware-or-real/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 21:37"
     }
 ]
