@@ -208,5 +208,45 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-18 05:54"
+    },
+    {
+        "title": "Microsoft Windows Server 2022 Nears Mainstream Support Expiration",
+        "content": "In a significant development, Microsoft has revealed that its Windows Server 2022 is approaching the end of its mainstream support period, slated to conclude in October 2026. Following this milestone, the operating system will transition into an extended support phase, ensuring the continuation of vital security updates for an additional five years. This transition is crucial for organizations reliant on Windows Server 2022, as it will impact the frequency and nature of updates they receive. During the extended support period, users can expect to receive security patches and critical updates, albeit without the new features and enhancements that typically accompany mainstream support. This shift underscores Microsoft's commitment to providing prolonged security coverage for its enterprise products, even as it progresses towards newer versions and technologies.",
+        "summary": "Windows Server 2022 will end its mainstream support in October 2026 and enter extended support, receiving security updates for five more years.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 10:47"
+    },
+    {
+        "title": "Japan's Leading Frozen Food Producer Hit by Cyberattack, Gradual Recovery Underway",
+        "content": "A major cyberattack has disrupted the operations of Nichirei, a prominent Japanese frozen food manufacturer. The incident occurred on July 13, prompting the company to temporarily shut down its systems as a precautionary measure. Headquartered in Tokyo, Nichirei is a key player in Japan's frozen food industry. The company has announced that it is now in the process of gradually restoring its operations. This cyberattack has highlighted the growing threat of cybercrime to businesses worldwide, particularly those in the food production sector. As the situation continues to unfold, Nichirei is working to minimize the impact on its customers and restore normal operations as soon as possible.",
+        "summary": "Nichirei, a leading Japanese frozen food producer, has been hit by a cyberattack, resulting in temporary disruptions to its operations. The company is now working to gradually restore its systems.",
+        "source": "Security Week",
+        "url": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 10:47"
+    },
+    {
+        "title": "Newly Discovered SharePoint Flaw Exploited by Hackers Shortly After Revelation",
+        "content": "A recently identified critical-severity security vulnerability in Microsoft SharePoint has begun to be exploited by threat actors, according to a warning issued by the US Cybersecurity and Infrastructure Security Agency (CISA). This remote code execution (RCE) vulnerability, tracked as CVE-2026-58644, allows authenticated attackers to remotely execute arbitrary code on the server, posing a significant risk to affected systems. The swift exploitation of this vulnerability highlights the importance of prompt patching and highlights the ongoing cat-and-mouse game between cybersecurity professionals and malicious actors. As the situation continues to unfold, organizations are advised to take immediate action to protect their SharePoint installations from potential attacks.",
+        "summary": "A critical-severity RCE vulnerability in Microsoft SharePoint is being exploited by hackers, prompting warnings from CISA and highlighting the need for prompt patching.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 10:47"
+    },
+    {
+        "title": "Coca-Cola Halts Fairlife Production in US Amidst Ransomware Breach",
+        "content": "In a significant disruption to its operations, Coca-Cola has temporarily ceased production at its Fairlife subsidiary in the United States following the detection of a ransomware attack. Fortunately, the company has assured consumers that the incident has not compromised the quality or safety of its products. Additionally, production at Fairlife's Canadian facilities remains unaffected. The suspension is a precautionary measure to prevent any potential spread of the malware and to ensure the integrity of the company's systems. As a leading beverage manufacturer, Coca-Cola's proactive response aims to mitigate the impact of the attack and restore normal operations as soon as possible.",
+        "summary": "Coca-Cola suspends US production of Fairlife due to a ransomware attack, with no impact on product quality or Canadian production",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-18 10:47"
     }
 ]
