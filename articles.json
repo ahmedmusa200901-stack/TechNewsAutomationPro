@@ -318,5 +318,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-18 21:37"
+    },
+    {
+        "title": "Experts Uncover Sophisticated Fake CAPTCHA Campaign by ClickFix",
+        "content": "A recent discovery has shed light on a complex fake CAPTCHA campaign orchestrated by ClickFix, a malicious entity. The campaign, which was analyzed on a website, revealed a multifaceted approach to deceive users. The incident has been thoroughly examined, and the findings have been shared to facilitate identification and mitigation of similar threats. The analysis provides a comprehensive overview of the campaign's tactics, techniques, and procedures, offering valuable insights for cybersecurity professionals and website administrators. By understanding the mechanisms employed by ClickFix, experts can develop more effective countermeasures to protect against such sophisticated attacks.",
+        "summary": "Cybersecurity experts have uncovered a sophisticated fake CAPTCHA campaign by ClickFix, providing a detailed analysis to help identify and mitigate similar threats.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817363/sophisticated-clickfix-fake-captcha-campaign-full-ioc-writeup-help-identifyin/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-19 07:18"
     }
 ]
