@@ -328,5 +328,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-19 07:18"
+    },
+    {
+        "title": "Beacon Security Secures $13 Million in Funding for Advanced Threat Detection Platform",
+        "content": "In a significant development, a cybersecurity startup has successfully raised $13 million in seed funding to further enhance its security data platform. This platform is designed to enable organizations to detect, hunt, and protect their assets across various environments at unprecedented speeds. The funding round was led by a prominent investment firm, with participation from several other notable venture capital firms and family offices. The funds raised will likely be utilized to expand the platform's capabilities and enhance its threat detection features, allowing organizations to respond to security incidents more effectively.",
+        "summary": "A cybersecurity startup has raised $13 million in seed funding to enhance its security data platform, which helps organizations detect and protect their assets at machine speed.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-19 11:41"
     }
 ]
