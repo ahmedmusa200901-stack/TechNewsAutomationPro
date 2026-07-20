@@ -338,5 +338,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-19 11:41"
+    },
+    {
+        "title": "Users Encounter Issues with USB Installation of VCDs Software",
+        "content": "A recent issue has been reported by users attempting to install VCDs software via USB. The problem appears to be related to device compatibility, with one user's system configuration revealing an Intel Core i5-1035G1 CPU, 8 GB of RAM, and Intel UHD Graphics. The user's device, named DESKTOP-JHBQF5K, has 99 GB of storage available. The issue has been discussed on online forums, with multiple users and guests viewing the topic. The discussion highlights the challenges faced by users when installing software via external hardware, emphasizing the need for compatible device configurations and proper installation procedures.",
+        "summary": "Users are experiencing difficulties installing VCDs software using a USB device, with potential causes linked to device compatibility and configuration.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817377/trouble-with-usb-installing-vcds-software/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-20 11:29"
     }
 ]
