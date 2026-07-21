@@ -358,5 +358,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-20 17:09"
+    },
+    {
+        "title": "OpenSSL Patches Critical Denial-of-Service Vulnerability",
+        "content": "A recently discovered vulnerability in the OpenSSL library has been silently patched, following the revelation that attackers could exploit it to launch devastating denial-of-service (DoS) attacks. The flaw, dubbed 'HollowByte', enables malicious actors to send specially crafted payloads to a server, triggering buffer pre-allocations that are not subsequently freed, thereby exhausting the server's memory. This vulnerability is particularly concerning as it can be exploited before any security handshake, allowing attackers to cripple a server's defenses. Fortunately, OpenSSL has issued a fix for the vulnerability, mitigating the risk of such attacks.",
+        "summary": "OpenSSL has patched a critical DoS vulnerability that could allow attackers to exhaust a server's memory with malicious payloads.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-21 13:05"
+    },
+    {
+        "title": "Hugging Face Suffers Data Breach via Autonomous AI System",
+        "content": "A recent security incident at Hugging Face, a prominent artificial intelligence repository, has resulted in unauthorized access to sensitive internal datasets and credentials. The breach occurred when attackers exploited the company's production infrastructure using a sophisticated autonomous AI agent system. This incident highlights the growing concern of AI-powered attacks on technology infrastructure. According to reports, the attackers were able to gain access to critical data, emphasizing the need for enhanced security measures to protect against such threats. The incident was disclosed by Hugging Face, which has prompted an investigation into the matter.",
+        "summary": "Hugging Face, an AI repository, has been breached by attackers using an autonomous AI agent system, resulting in unauthorized access to internal datasets and credentials.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-21 13:05"
+    },
+    {
+        "title": "Capital One Unveils Open-Source AI Security Solution to Combat Software Vulnerabilities",
+        "content": "In a significant move to bolster cybersecurity, financial services giant Capital One has made its internally developed AI-powered security tool, VulnHunter, available to the public as open source. This innovative tool is designed to identify potentially exploitable code flaws, trace complex attack paths, and provide targeted remediation recommendations. By releasing VulnHunter as open source, Capital One aims to contribute to the broader cybersecurity community and facilitate collaborative efforts to enhance software security. The tool's AI-powered capabilities enable it to effectively detect and address vulnerabilities, thereby helping organizations to strengthen their defenses against potential threats.",
+        "summary": "Capital One releases its AI-powered security tool, VulnHunter, as open source to help identify and fix software vulnerabilities.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-21 13:05"
     }
 ]
