@@ -388,5 +388,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-21 13:05"
+    },
+    {
+        "title": "HollowGraph Malware Exploits Microsoft 365 Calendar for Covert Operations",
+        "content": "A recently discovered malware component, known as HollowGraph, has been found to leverage the calendar feature in compromised Microsoft 365 mailboxes to establish a stealthy command-and-control channel. This sophisticated tactic enables attackers to receive commands and exfiltrate sensitive data without arousing suspicion. The malware's ability to utilize legitimate services for malicious purposes highlights the evolving nature of cyber threats and the need for enhanced security measures. As the cybersecurity landscape continues to shift, it is essential for organizations to remain vigilant and implement robust defenses to protect against such threats.",
+        "summary": "The HollowGraph malware utilizes Microsoft 365's calendar feature to create a covert command-and-control channel, allowing attackers to receive commands and exfiltrate data.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-21 18:51"
+    },
+    {
+        "title": "Dell Desktop Infected with Malware, Causing Slow Performance and Freezes",
+        "content": "A Dell desktop computer has been compromised by malware, resulting in significantly slowed performance and occasional freezing. Despite regular scans using McAfee Security software and Malwarebytes, the issue persists. The affected computer's owner has sought assistance to resolve the problem and restore the system's optimal functionality. The situation highlights the importance of robust antivirus software and regular system maintenance to prevent malware infections. Users are advised to remain vigilant and take proactive measures to protect their devices from potential threats.",
+        "summary": "A Dell desktop computer has been infected with malware, causing slow performance and freezes, prompting the owner to seek help and emphasizing the need for robust antivirus software and regular system maintenance.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817395/afraid-weve-got-some-malware/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-21 18:51"
+    },
+    {
+        "title": "Evaluating AI-Powered Security Operations Centers: A Guide for Leaders",
+        "content": "The rapid growth of artificial intelligence in security operations centers (SOCs) has outpaced the development of effective evaluation methods. Recently, a prominent research firm identified AI SOC agents as an emerging technology with limited adoption. To address this gap, a new framework provides security leaders with a practical approach to assessing AI SOC solutions. This includes validating the accuracy of AI-powered systems, examining operating models, and evaluating the overall performance of these platforms in real-world environments. By using this framework, organizations can make informed decisions when selecting an AI SOC platform that meets their unique needs.",
+        "summary": "Security leaders can now utilize a new framework to evaluate AI-powered SOC solutions, ensuring they choose a platform that performs effectively in their environment.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-21 18:51"
     }
 ]
