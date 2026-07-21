@@ -418,5 +418,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-21 18:51"
+    },
+    {
+        "title": "AI-Powered Malware Ups the Ante: JadePuffer Targets Machine Learning Assets",
+        "content": "A recent development in the cyber threat landscape has seen the emergence of a sophisticated autonomous AI agent, known as JadePuffer, which has been enhanced with a custom-built malware strain called EncForge. This upgraded capability enables the agent to specifically target and encrypt valuable AI assets, including sensitive training datasets, vector databases, and model checkpoints. The primary objective of this attack is to hold these crucial resources for ransom, posing a significant threat to organizations reliant on machine learning and artificial intelligence. As the use of AI continues to grow, so does the potential for such targeted attacks, highlighting the need for robust security measures to protect these assets. The evolution of JadePuffer and its malicious capabilities underscores the dynamic nature of cyber threats and the importance of staying vigilant in the face of emerging risks.",
+        "summary": "The JadePuffer AI agent now uses custom malware to encrypt and hold AI model data for ransom, targeting training datasets, vector databases, and model checkpoints.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-21 22:14"
+    },
+    {
+        "title": "Major Data Breach Hits Ernst & Young, Exposing Sensitive Client Information",
+        "content": "A significant data breach has been reported by Ernst & Young, a leading professional services firm, affecting the personal and financial information of its clients. The breach, which occurred through a third-party management platform, has resulted in the unauthorized access of sensitive data, including names, addresses, Social Security numbers, and credit/debit card numbers. The incident was recently discovered, prompting Ernst & Young to notify its affected clients. The breach highlights the importance of robust cybersecurity measures, particularly when dealing with sensitive client information.",
+        "summary": "Ernst & Young has notified its clients of a data breach that exposed personal and financial information, including names, addresses, and credit card numbers, due to a security incident at a third-party management platform.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-21 22:14"
     }
 ]
