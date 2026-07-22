@@ -438,5 +438,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-21 22:14"
+    },
+    {
+        "title": "Estée Lauder Falls Victim to Data Breach Through Oracle E-Business Suite Vulnerability",
+        "content": "A recent cybersecurity incident has prompted Estée Lauder to inform its customers of a data breach. The breach occurred due to a vulnerability in the Oracle E-Business Suite, which the company utilized for its human resources operations. This vulnerability was exploited by hackers, resulting in unauthorized access to sensitive information. The incident highlights the importance of ensuring the security of business systems and the potential consequences of failing to do so. As a result, Estée Lauder is taking steps to notify and protect those affected by the breach.",
+        "summary": "Estée Lauder has disclosed a data breach resulting from a vulnerability in the Oracle E-Business Suite used for human resources, prompting customer notification and protection measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 07:57"
+    },
+    {
+        "title": "SonicWall VPN Appliances Compromised by Zero-Day Exploits",
+        "content": "A recent wave of zero-day attacks has targeted vulnerabilities in SonicWall's SMA1000 series, enabling malicious actors to deploy customized malware on unpatched VPN appliances. These exploits, which were initially disclosed in recent weeks, have been leveraged by threat actors to compromise the security of affected devices. As a result, users of these appliances are advised to take immediate action to patch the vulnerabilities and prevent potential security breaches. The attacks highlight the importance of prompt patch management and the need for organizations to stay vigilant in the face of evolving cyber threats.",
+        "summary": "SonicWall SMA1000 vulnerabilities have been exploited in zero-day attacks, allowing threat actors to install custom malware on vulnerable VPN appliances.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 07:57"
+    },
+    {
+        "title": "Crypto Heist: Ostium Trading Platform Loses $23.7 Million to Off-Chain Attack",
+        "content": "A significant security breach has been reported by the Ostium trading platform, resulting in the theft of approximately $23.7 million in cryptocurrency. The attack, which occurred last week, targeted the platform's liquidity provider vault and was made possible by the exploitation of vulnerable off-chain infrastructure. This infrastructure is crucial for feeding price data into the protocol, highlighting the importance of robust security measures beyond the core protocol itself. The incident underscores the growing concern of off-chain attacks in the cryptocurrency space, where hackers increasingly look for weaknesses outside the immediate protocol to carry out their malicious activities.",
+        "summary": "Ostium trading platform suffers a major loss of $23.7 million in cryptocurrency due to an off-chain attack that compromised its price-feeding infrastructure.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 07:57"
     }
 ]
