@@ -468,5 +468,65 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-22 07:57"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Encrypts Files Without Changing Extensions",
+        "content": "A newly discovered ransomware variant is making headlines for its unusual behavior of encrypting files without modifying their extensions. This malicious software has been reported to leave no ransom note or text file, making it particularly challenging for victims to determine the attacker's demands. According to reports, a full system scan for typical ransomware-related files such as READ, README, RESTORE, and DECRYPT files yielded no results. The affected individual has uploaded a ZIP archive containing both the original and encrypted file pair, seeking assistance from cybersecurity experts. The lack of a ransom note or clear demands from the attackers has added to the complexity of this case, leaving the victim and experts alike searching for clues.",
+        "summary": "A mysterious ransomware strain is encrypting files without changing their extensions, leaving no ransom note or demands, and sparking a search for answers among cybersecurity experts.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817408/unknown-ransomware-no-extension-original-encrypted-file-pair/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 13:11"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Discovered, Leaves File Extensions Intact",
+        "content": "A recently identified ransomware variant has been found to encrypt files without altering their extensions, leaving victims with limited clues to identify the attack. This unusual behavior has sparked concern among cybersecurity experts, as it may indicate a new wave of sophisticated malware. According to reports, a user has uploaded a ZIP archive containing both the original and encrypted files, providing valuable insight into the ransomware's mechanisms. The archive is expected to aid researchers in understanding the malware's behavior and potentially developing countermeasures.",
+        "summary": "A new ransomware strain has been discovered, characterized by its ability to encrypt files without changing their extensions, prompting concerns among cybersecurity experts and researchers.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817410/unknown-ransomware-no-extension-change-original-encrypted-file-pair/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 13:11"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Emerges, Encrypts Files Without Altering Extensions",
+        "content": "A newly discovered ransomware variant has been reported to encrypt files without modifying their extensions, leaving victims with limited clues to identify the malware. According to a recent post on a tech support forum, a user's files were encrypted by this unknown ransomware, and a ZIP archive containing both the original and encrypted files has been shared for analysis. The lack of extension changes makes it challenging for security experts to pinpoint the specific strain of ransomware responsible for the attack. As the investigation unfolds, it is essential for users to remain vigilant and take proactive measures to protect their data from such threats.",
+        "summary": "A new ransomware strain encrypts files without changing extensions, making it difficult to identify, and a user has shared a ZIP archive of original and encrypted files for analysis.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817409/unknown-ransomware-no-extension-change-original-encrypted-file-pair/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 13:11"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Emerges, Encrypts Files Without Altering Extensions",
+        "content": "A newly discovered ransomware variant has been reported to encrypt files without modifying their extensions, leaving victims with limited clues to identify the malware. According to a recent post on a tech support forum, a user's files were encrypted by the unknown ransomware, and a ZIP archive containing both the original and encrypted files has been shared for analysis. The lack of extension changes makes it challenging for authorities to track and contain the spread of this ransomware. As the investigation unfolds, experts warn users to remain vigilant and take necessary precautions to protect their sensitive data from such threats.",
+        "summary": "A new ransomware strain encrypts files without changing extensions, posing a significant challenge for identification and containment.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817408/unknown-ransomware-no-extension-change-original-encrypted-file-pair/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 13:11"
+    },
+    {
+        "title": "Meta Awards $78,000 to Security Researcher for Exposing Critical Vulnerability",
+        "content": "A recent discovery by a security researcher has led to a substantial payout from Meta, highlighting the importance of robust security measures. The researcher identified a significant flaw in Meta's support infrastructure, specifically a broken access control vulnerability, which had the potential to compromise sensitive customer support data. This vulnerability, if exploited, could have had severe consequences, including unauthorized access to confidential information. Meta's bug bounty program, designed to incentivize responsible disclosure of security vulnerabilities, has once again proven effective in identifying and addressing potential threats. The company's proactive approach to security has resulted in the swift remediation of the issue, ensuring the protection of customer data.",
+        "summary": "Meta has paid a security researcher $78,000 for discovering a critical vulnerability that exposed customer support data, showcasing the company's commitment to security and responsible disclosure.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 13:11"
+    },
+    {
+        "title": "Ransomware Group Targets Vulnerability in Palo Alto VPN to Compromise Networks",
+        "content": "A recently discovered vulnerability in Palo Alto's GlobalProtect VPN is being exploited by the Qilin ransomware gang to gain unauthorized access to victim networks. This critical flaw, identified in the PAN-OS system, allows attackers to bypass authentication mechanisms, thereby facilitating breaches. According to reports from cybersecurity firm Arctic Wolf, this exploitation is a significant concern for organizations relying on the affected VPN solution. The vulnerability underscores the importance of prompt patching and robust security measures to mitigate potential ransomware attacks.",
+        "summary": "The Qilin ransomware gang is leveraging a critical vulnerability in Palo Alto's GlobalProtect VPN to breach networks, highlighting the need for immediate security patches and enhanced defensive strategies.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 13:11"
     }
 ]
