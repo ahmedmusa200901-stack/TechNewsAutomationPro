@@ -548,5 +548,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-22 17:58"
+    },
+    {
+        "title": "Coca-Cola's Fairlife Dairy Subsidiary Hit by Anubis Ransomware Attack",
+        "content": "A recent cyberattack on Coca-Cola's Fairlife dairy subsidiary has been claimed by the Anubis ransomware gang, who are now threatening to release sensitive corporate data unless a ransom is paid. This attack has raised concerns about the security of major corporations and their subsidiaries. The Anubis gang is known for its aggressive tactics, including leaking stolen data if ransom demands are not met. The incident highlights the growing threat of ransomware attacks on businesses, emphasizing the need for robust cybersecurity measures to protect against such threats. As the situation unfolds, it remains to be seen how Coca-Cola will respond to the ransom demands and what measures will be taken to prevent future attacks.",
+        "summary": "The Anubis ransomware gang has taken responsibility for a cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to leak corporate data if a ransom is not paid.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 21:44"
+    },
+    {
+        "title": "US Government Mandates Enhanced Visibility into Defense Supply Chains",
+        "content": "In a significant move to bolster national security, the US government has issued a directive requiring the Department of Defense to create a comprehensive framework for mapping and securing critical supply chains. This initiative aims to provide end-to-end visibility into the complex networks of suppliers, software dependencies, and services that underpin the country's defense infrastructure. The goal is to identify and mitigate potential risks, including those related to foreign ownership and cyber threats. By shedding light on these often opaque supply chains, the government seeks to protect sensitive information and prevent vulnerabilities that could be exploited by adversaries. The new rules are expected to have a profound impact on defense contractors, who will be required to provide detailed information about their software, services, and suppliers.",
+        "summary": "The US government has ordered the Department of Defense to develop new rules for mapping and securing critical defense supply chains, including software dependencies and supplier risks.",
+        "source": "Securityweek.com",
+        "url": "https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-22 21:44"
     }
 ]
