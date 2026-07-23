@@ -608,5 +608,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-23 07:44"
+    },
+    {
+        "title": "Microsoft to Discontinue Security Updates for Exchange 2016 and 2019",
+        "content": "In a significant development, Microsoft has announced that it will be ceasing to provide security updates for its Exchange 2016 and 2019 products through the Extended Security Update program, effective October. This decision marks the end of an era for these versions, which have been supported for an extended period. The company had previously extended support for these products, but has now confirmed that the October deadline will be the final cutoff point. As a result, customers still relying on these versions will need to explore alternative options to ensure the security and integrity of their systems. The discontinuation of security updates may expose users to potential vulnerabilities, making it essential for them to migrate to newer, supported versions of Exchange or seek alternative solutions.",
+        "summary": "Microsoft will stop providing security updates for Exchange 2016 and 2019 in October, marking the end of the Extended Security Update program for these products.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-23 13:14"
+    },
+    {
+        "title": "Glow Emerges as a New Player in Endpoint Security with Significant Funding",
+        "content": "In a notable development, a startup specializing in endpoint security, Glow, has officially launched after securing substantial funding. By leveraging artificial intelligence, Glow's innovative approach focuses on adaptive prevention, incorporating environment mapping, in-depth risk analysis, and the automation of policy enforcement. This strategic combination aims to fortify endpoint security, addressing the evolving landscape of cyber threats. The company's emergence into the market is marked by a significant investment, underscoring the potential of its AI-driven solutions. With a valuation of $1.2 billion, Glow is poised to make a considerable impact in the cybersecurity sector.",
+        "summary": "Glow, an AI-powered endpoint security firm, launches with $180 million in funding, valued at $1.2 billion, aiming to revolutionize cybersecurity with adaptive prevention techniques.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-23 13:14"
     }
 ]
