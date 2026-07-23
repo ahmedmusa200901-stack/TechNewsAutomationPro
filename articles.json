@@ -668,5 +668,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-23 18:23"
+    },
+    {
+        "title": "Fintech Firm Upbound Hit with $13 Million in Fraudulent Leases Following Cyber Attack",
+        "content": "A recent cybersecurity breach at The Upbound Group, a financial technology company, has resulted in significant financial losses. According to the company's disclosure, malicious actors who gained unauthorized access to its systems utilized stolen data to generate approximately $13 million in fraudulent leases with Acima. This incident highlights the growing concerns surrounding data security in the fintech sector. The breach was revealed in a filing with the U.S. Securities and Exchange Commission, underscoring the importance of transparency in such cases. As the investigation into the matter continues, it serves as a reminder for companies to bolster their cybersecurity measures to protect against potential threats.",
+        "summary": "The Upbound Group, a fintech company, has reported a cyber attack resulting in $13 million in fraudulent Acima leases, emphasizing the need for enhanced data security measures in the financial technology sector.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-23 22:33"
+    },
+    {
+        "title": "South Korea Reveals Extensive Data Breach Affecting Global Diplomats",
+        "content": "In a significant cybersecurity incident, South Korea has announced that its National Diplomatic Academy's online education platform was compromised by hackers for nearly a year. The breach, which lasted for ten months, resulted in the theft of sensitive personal information belonging to current and former Ministry of Foreign Affairs employees, including those serving overseas. This data breach has far-reaching implications, potentially affecting diplomats worldwide and highlighting the vulnerability of online systems to sophisticated cyberattacks.",
+        "summary": "A prolonged cyberattack on South Korea's National Diplomatic Academy has exposed the personal data of Ministry of Foreign Affairs employees, including diplomats abroad, sparking concerns over global cybersecurity.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-23 22:33"
     }
 ]
