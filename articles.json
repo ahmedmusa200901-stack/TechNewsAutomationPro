@@ -688,5 +688,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-23 22:33"
+    },
+    {
+        "title": "LockBit 3.0 Ransomware Variant Compromised in Notable Breach",
+        "content": "The LockBit 3.0 Black ransomware strain has suffered a significant setback after being hacked, sparking a wave of uncertainty among its operators and victims alike. This unexpected turn of events raises crucial questions regarding the potential decryption of files that were previously encrypted using LockBit 3.0. Experts caution that while some entities may claim to offer decryption services, their legitimacy is often questionable. Reputable sources, such as Bleeping Computer, advise against trusting unverified decryptors, as they may be scams. The hacking of LockBit 3.0 Black underscores the complex and ever-evolving landscape of cybersecurity threats, where even malicious actors can fall victim to breaches. As the situation unfolds, it remains essential for individuals and organizations to prioritize robust security measures to protect against ransomware attacks.",
+        "summary": "The LockBit 3.0 Black ransomware has been hacked, leading to concerns about file decryption and the legitimacy of decryption services.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817440/unfortunately-lockbit-has-been-hacked-lockbit-30-black/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 07:57"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Identified as Proton/Shinra",
+        "content": "A recently discovered ransomware strain has been identified, with the attack notably linked to the Proton/Shinra group. The ransom note, titled 'DataRecov', contains a unique identifier and provides contact information for the attackers, including email addresses 'ransomhunters2026@gmail.com' and 'ransomhunters@onionmail.org'. Despite efforts to research the type and family of the ransomware, the exact nature of the malware remains unclear. The discovery was reported on a tech support forum, where users shared details of the ransom note in an attempt to uncover more information about the attack.",
+        "summary": "A new ransomware strain linked to the Proton/Shinra group has been discovered, with a unique ransom note and contact information for the attackers.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817436/what-kind-of-ransomware-is-this-protonshinra/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 07:57"
     }
 ]
