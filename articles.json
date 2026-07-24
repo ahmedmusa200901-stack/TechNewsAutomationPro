@@ -738,5 +738,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-24 13:07"
+    },
+    {
+        "title": "Russian Cyber Actors Utilize Zero-Click Vulnerability to Compromise Email Servers",
+        "content": "A recent warning issued by the Cybersecurity and Infrastructure Security Agency (CISA) has brought to light the activities of a Russian state-sponsored hacking group, known by its aliases Laundry Bear and Void Blizzard. This group has been identified as targeting organizations that utilize Zimbra Collaboration email servers, leveraging a combination of sophisticated phishing tactics and the exploitation of a previously unknown vulnerability in Zimbra's software. Although the vulnerability has since been patched, the incident highlights the ongoing threat posed by nation-state actors to global cybersecurity. The attackers' strategy involves exploiting the zero-click flaw to gain unauthorized access to sensitive email communications, underscoring the importance of prompt patching and robust security measures for organizations reliant on email services.",
+        "summary": "CISA warns of Russian hackers targeting Zimbra email servers using a zero-click flaw and phishing attacks, emphasizing the need for vigilance and timely software updates.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 19:04"
+    },
+    {
+        "title": "OpenAI Patches Critical ChatGPT Vulnerability Exposing Organizations to AI-Powered Threats",
+        "content": "A recently discovered vulnerability in OpenAI's ChatGPT Workspace Agents has been addressed, following a disclosure by Zenity Labs. The flaw, dubbed AgentForger, is a type of cross-site request forgery (CSRF) that could be exploited by attackers to create and control a rogue AI agent within an organization's systems. This autonomous agent would be invisible to the organization, allowing the attacker to carry out malicious activities without detection. OpenAI has since fixed the issue, mitigating the risk of such attacks. The AgentForger vulnerability highlights the importance of ongoing security audits and patches in the development of AI technologies.",
+        "summary": "OpenAI has fixed a critical vulnerability in its ChatGPT Workspace Agents that could have allowed attackers to create and control a rogue AI agent within an organization.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 19:04"
     }
 ]
