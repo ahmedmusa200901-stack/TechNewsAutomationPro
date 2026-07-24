@@ -708,5 +708,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-24 07:57"
+    },
+    {
+        "title": "Linux Vulnerability Exposed: RefluXFS Flaw Puts Systems at Risk",
+        "content": "A significant security flaw has been discovered in the Linux kernel's XFS filesystem, potentially allowing malicious actors to escalate their privileges to root level. This vulnerability, identified as CVE-2026-64600, is a race condition bug that has been present for nearly a decade. It enables local attackers to modify sensitive files, thereby gaining unrestricted access to the system. This flaw, dubbed RefluXFS, poses a substantial threat to the security of Linux systems, emphasizing the need for immediate patching to prevent potential exploits. The Linux community is advised to apply the necessary updates to mitigate this vulnerability and protect their systems from unauthorized access.",
+        "summary": "A 9-year-old Linux kernel vulnerability in the XFS filesystem allows local attackers to gain root privileges, emphasizing the need for urgent patches.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 13:07"
+    },
+    {
+        "title": "Chaos Ransomware Gang Employs Stealthy msaRAT Malware to Evade Detection",
+        "content": "A recently discovered malware, known as msaRAT, has been linked to the Chaos ransomware gang, which leverages the Google Chrome and Microsoft Edge browsers to disguise its command-and-control communications. This clever tactic enables the malware to bypass traditional detection methods, posing a significant threat to cybersecurity. Written in the Rust programming language, msaRAT's ability to route its C2 traffic through popular web browsers makes it a formidable opponent for security systems. As the cybersecurity landscape continues to evolve, the emergence of such sophisticated malware highlights the need for robust defense mechanisms to protect against these types of threats.",
+        "summary": "The Chaos ransomware gang has developed a new backdoor malware called msaRAT, which uses Chrome and Edge browsers to conceal its command-and-control communications, making it harder to detect.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 13:07"
+    },
+    {
+        "title": "Microsoft Acts to Resolve Exchange Online Mailbox Quarantine Glitch",
+        "content": "A technical issue has been affecting Microsoft's Exchange Online service, causing mailboxes to be quarantined in error. The problem, which began on Sunday, has prompted Microsoft to initiate remediation efforts. The company is actively working to resolve the issue, which has been tracked internally for further investigation and resolution. The incident highlights the importance of robust technical support and prompt issue resolution in cloud-based services.",
+        "summary": "Microsoft is working to fix a technical glitch in its Exchange Online service that has led to the mistaken quarantine of customer mailboxes since Sunday.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 13:07"
     }
 ]
